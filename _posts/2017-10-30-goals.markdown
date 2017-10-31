@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "goals #1"
+date:   2017-10-30 22:35:30 -0500
+categories: goals
+---
+
+oops, I haven't posted anything in a while!
+
+Here are some project goals I would like to accomplish in the near future:
+
+1. See if I can create a more efficient floodfill algorithm for funSketch. Try to run some tests to compare!
+2. Improve my HTML piano roll. Maybe try using web workers to handle the note playback, so that it doesn't lag/freeze when scrolling horizontally.
+3. Get a good understanding of WebGL, and maybe make some games with WebGL!
+4. Improve boringChat! Add the logout feature, and an edit-profile page perhaps.
+5. Play with Jekyll some more.
+
+good luck!
